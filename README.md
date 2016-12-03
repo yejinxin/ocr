@@ -1,2 +1,2 @@
 # ocr
-A simple OCR example.
+A simple net practical OCR example.
